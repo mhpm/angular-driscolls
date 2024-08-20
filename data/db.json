@@ -1,0 +1,101 @@
+{
+  "users": [
+    {
+      "name": "Estelle Williamson updated",
+      "email": "Blanca.Shanahan46@hotmail.com",
+      "id": "J3Cf"
+    },
+    {
+      "id": "dEQf",
+      "name": "Wm Romaguera-Beer",
+      "email": "Hertha.Cassin69@hotmail.com"
+    },
+    {
+      "id": "jj9H",
+      "name": "Ivan Murazik",
+      "email": "Elyssa_Carroll63@gmail.com"
+    },
+    {
+      "id": "ZEAt",
+      "name": "Ellis Hilll",
+      "email": "Easton61@yahoo.com"
+    },
+    {
+      "id": "dt35",
+      "name": "Kelly Lynch",
+      "email": "Reta_Maggio-Labadie80@gmail.com"
+    },
+    {
+      "name": "Marcus Hand updated",
+      "email": "Ada65@hotmail.com",
+      "id": "1wxc"
+    },
+    {
+      "id": "2aTv",
+      "name": "Janice Harvey",
+      "email": "Kayleigh28@gmail.com"
+    },
+    {
+      "id": "kMjt",
+      "name": "Mr. Harvey Mills",
+      "email": "Marco_Nienow90@gmail.com"
+    }
+  ],
+  "news": [
+    {
+      "id": "Jtla",
+      "title": "Jenkins - Breitenberg",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas assumenda architecto et, tempora molestiae molestias eos velit modi maiores laborum quae. Facere vel ducimus quo rem ratione! At, atque ex."
+    },
+    {
+      "id": "2MrH",
+      "title": "Mayert, Kassulke and Rodriguez",
+      "content": "atque ex. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas assumenda architecto et, tempora molestiae molestias eos velit modi maiores laborum quae. Facere vel ducimus quo rem ratione! At, atque ex atque ex. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas assumenda architecto et, tempora molestiae molestias eos velit modi maiores laborum quae. Facere vel ducimus quo rem ratione! At, atque ex Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas assumenda architecto et, tempora molestiae molestias eos velit modi maiores laborum quae. Facere vel ducimus quo rem ratione! At, atque ex."
+    },
+    {
+      "id": "Z3Ra",
+      "title": "Langosh, Collier and Kling",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas assumenda architecto et, tempora molestiae molestias eos velit modi maiores laborum quae. Facere vel ducimus quo rem ratione! At, atque ex."
+    },
+    {
+      "id": "8uFO",
+      "title": "Koepp Group",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas assumenda architecto et, tempora molestiae molestias eos velit modi maiores laborum quae. Facere vel ducimus quo rem ratione! At, atque ex."
+    },
+    {
+      "id": "kKyI",
+      "title": "Morissette, Jaskolski and Stanton",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas assumenda architecto et, tempora molestiae molestias eos velit modi maiores laborum quae. Facere vel ducimus quo rem ratione! At, atque ex.Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas assumenda architecto et, tempora molestiae molestias eos velit modi maiores laborum quae. Facere vel ducimus quo rem ratione! At, atque ex."
+    },
+    {
+      "id": "MBk7",
+      "title": "Metz, Thiel and Larkin",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas assumenda architecto et, tempora molestiae molestias eos velit modi maiores laborum quae. Facere vel ducimus quo rem ratione! At, atque ex."
+    },
+    {
+      "id": "Mo1Z",
+      "title": "Koelpin and Sons",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas assumenda architecto et, tempora molestiae molestias eos velit modi maiores laborum quae. Facere vel ducimus quo rem ratione! At, atque ex."
+    },
+    {
+      "id": "CUnL",
+      "title": "Breitenberg and Sons",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas assumenda architecto et, tempora molestiae molestias eos velit modi maiores laborum quae. Facere vel ducimus quo rem ratione! At, atque ex."
+    },
+    {
+      "id": "yQOz",
+      "title": "Koepp Inc",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas assumenda architecto et, tempora molestiae molestias eos velit modi maiores laborum quae. Facere vel ducimus quo rem ratione! At, atque ex."
+    },
+    {
+      "id": "adjl",
+      "title": "Glover - Carroll",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas assumenda architecto et, tempora molestiae molestias eos velit modi maiores laborum quae. Facere vel ducimus quo rem ratione! At, atque ex."
+    },
+    {
+      "id": "z48j",
+      "title": "Thompson, Shanahan and Walker",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas assumenda architecto et, tempora molestiae molestias eos velit modi maiores laborum quae. Facere vel ducimus quo rem ratione! At, atque ex."
+    }
+  ]
+}

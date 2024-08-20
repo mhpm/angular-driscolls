@@ -1,0 +1,11 @@
+<h2>User List</h2>
+<ul>
+  @for (user of users; track user.id) {
+  <i class="flex justify-between p-6 border"
+    >{{ user.name }} - {{ user.email }}
+    <button (click)="editUser(user.id)">Edit</button></i
+  >
+  } @empty {
+  <li>There are no items.</li>
+  }
+</ul>
